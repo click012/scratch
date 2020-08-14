@@ -10,6 +10,7 @@ https://m.blog.naver.com/PostView.nhn?blogId=tnrms007&logNo=221312205107&categor
 
 https://docs.gradle.org/current/userguide/declaring_repositories.html
 
+
 # Android
 https://iw90.tistory.com/113
 
@@ -26,6 +27,8 @@ https://github.com/greenrobot/essentials
 https://github.com/objectbox/objectbox-java
 
 https://greenrobot.org/greendao/documentation/introduction/
+
+https://ecogeo.tistory.com/347
 
 https://ecogeo.tistory.com/347
 
