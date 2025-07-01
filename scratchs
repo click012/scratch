@@ -1,0 +1,7 @@
+=LET(
+    txt, A1,
+    chars, "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    arr, MID(txt, ROW(INDIRECT("1:" & LEN(txt))), 1),
+    sum, SUMPRODUCT(SEARCH(arr, chars) - 1),
+    MID(chars, MOD(sum, 36) + 1, 1)
+)
